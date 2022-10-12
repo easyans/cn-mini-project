@@ -1,4 +1,3 @@
-[![MasterHead](https://www.continentaloffice.com/hs-fs/hubfs/Office%20Disposition%20GIF-1.gif?width=678&name=Office%20Disposition%20GIF-1.gif)](https://github.com/easyans)
 <h1 align="center">Hi 👋, I'm Aakash Raj</h1>
 <h3 align="center">A passionate frontend developer from India & This New Repo consists my CN(computer networks)MINI-Project</h3>
 
